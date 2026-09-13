@@ -31,7 +31,7 @@ This project was built to practice React fundamentals such as **components, stat
 
 ## 🌐 Live Demo
 
-**Try the app:** Add your deployed application link here.
+[**Try the app:** https://to-do-app2-neon.vercel.app/](https://to-do-app2-neon.vercel.app/)
 
 ## 📚 What I Learned
 
