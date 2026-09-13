@@ -27,7 +27,6 @@ This project was built to practice React fundamentals such as **components, stat
 
 
 ![To-Do App Screenshot](./assets/Demo.png)
-```
 
 
 ## 🌐 Live Demo
